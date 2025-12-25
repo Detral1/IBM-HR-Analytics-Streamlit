@@ -1,4 +1,7 @@
 ## 📊 IBM HR Analytics – Employee Attrition Dashboard
+![Streamlit](https://img.shields.io/badge/streamlit-app-red)
+![Python](https://img.shields.io/badge/python-3.9+-blue)
+![Machine Learning](https://img.shields.io/badge/machine-learning-green)
 
 ## 🔍 Project Overview
 
