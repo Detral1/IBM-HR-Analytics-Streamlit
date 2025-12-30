@@ -77,6 +77,20 @@ The solution is built end-to-end using Python, Jupyter Notebook, Streamlit, and 
 
 **Output**: Attrition risk prediction (Yes / No)
 
+## 🧪 Model Design & Evaluation
+
+•	Translated the attrition problem into a supervised classification task
+
+•	Established a baseline classification model
+
+•	Performed feature selection and preprocessing to reduce noise
+
+•	Evaluated models using accuracy, precision, recall, and confusion matrix
+
+•	Analyzed misclassified cases to identify key failure patterns
+
+•	Selected final model based on generalization performance and business interpretability
+
 ## 🌐 Streamlit Dashboard Features
 
 1. Overall attrition KPI
